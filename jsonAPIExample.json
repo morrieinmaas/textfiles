@@ -1,0 +1,18 @@
+{
+  "OrganisationID": "<organisationGUID>",
+  "Name": "company name",
+  "CountryCode": "GB",
+  "CompanyNumber": "GB82653927d",
+  "SIC": "6428",
+  "LEI": "G5GSEF7VJP5I7OUK5573",
+  "TradingNames": "trading name 1, another name, oh this one",
+  "RegisteredAddress": "5 London Way, London EC1 2RW",
+  "LegalForm": "Private limited company",
+  "RegisteredCountryName": "United Kingdom",
+  "Entity": "3",
+  "IncorporatedCountry": "GB",
+  "IncorporationDate": "12/01/1977",
+  "RegisteredCity": "London",
+  "ProductsServices": "Specialist in provision of financial service products",
+  "RegistrationDate": "12/01/1977"
+}
